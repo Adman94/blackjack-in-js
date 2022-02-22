@@ -1,1 +1,1 @@
-# blackjack-in-js
+# BLACK JACK APP IN JAVASCRIPT
